@@ -1,0 +1,10 @@
+baseURL = "https://opencensus.io/"
+languageCode = "en-us"
+title = "OpenCensus"
+theme = "census"
+
+[params]
+  description = "A stats collection and distributed tracing framework"
+
+
+
