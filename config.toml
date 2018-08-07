@@ -1,4 +1,4 @@
-baseURL = "https://opencensus.io/"
+baseURL = "https://opencensus-website-snapshot.firebaseapp.com/"
 languageCode = "en-us"
 title = "OpenCensus"
 theme = "census"
